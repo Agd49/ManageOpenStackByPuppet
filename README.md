@@ -1,0 +1,2 @@
+# ManageOpenStackByPuppet
+利用puppet管理安装OpenStack
